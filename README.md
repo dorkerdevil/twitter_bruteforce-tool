@@ -4,7 +4,7 @@ you can also use to pentest on accounts to make them more secure..
   'nothing is secure'
                               }
 or use to attack on victim in order to gain control over it.
-
+-------------------------------------------------------------------------------------------------------------------------------
 print "\n################################" 
 print "#Twitter Pentester  2015 Priv8 #"
 print "#Coded By dorker devil         #"
@@ -27,8 +27,9 @@ Usage: twitter.py victim@gmail.com <wordlist.txt> <options>
 	requirements-
 	python27.xx
 	windows/linux
-	
-	Permission is hereby granted, free of charge, to any person obtaining a copy of
+-------------------------------------------------------------------------------------------------------------------------------	
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
 the Software without restriction, including without limitation the rights to
 use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
